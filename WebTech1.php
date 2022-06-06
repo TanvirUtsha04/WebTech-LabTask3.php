@@ -1,5 +1,3 @@
-#1
-
 <?php
 $length = 14;
 $width = 8;
